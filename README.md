@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I'm Vinny a College Student and IT professional
+🧑‍💻Information Technology Projects (so far):
+- osTicket (Help Desk Ticketing System
+    osTicket Prerequisites and Installation
+    osTicket Post-Installation Configuration   
+    osTicket Lifecycle Examples
 
+- Microsoft Azure
+  Configuring On-premises Active Directory within Azure VMs
+  Network Security Groups (NSGs) and Inspecting Network Protocols
 <!--
 **V2Ruf/V2Ruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
